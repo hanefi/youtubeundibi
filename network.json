@@ -1,0 +1,878 @@
+{
+    "links": [
+        {
+            "source": "aa2da63695aba939d51d2c56656134b069867955a16676faed9839ec",
+            "target": "28c63abbc745f9559b50e5e491cc807dc29b3abe9df203e71f94ad8a",
+            "value": 3
+        },
+        {
+            "source": "aa2da63695aba939d51d2c56656134b069867955a16676faed9839ec",
+            "target": "4b0d88d56dfeeb2895127e202d19caa180022d9e882103b578f771eb",
+            "value": 3
+        },
+        {
+            "source": "aa2da63695aba939d51d2c56656134b069867955a16676faed9839ec",
+            "target": "366efdbdd208cde2006f9798d7c85894499a5475b7b739c1f3252224",
+            "value": 3
+        },
+        {
+            "source": "aa2da63695aba939d51d2c56656134b069867955a16676faed9839ec",
+            "target": "de5e185cabc38d55055636c5a3fe0fdad1f6fdd2ba318b714cfdda52",
+            "value": 3
+        },
+        {
+            "source": "8cf5bbeab773f5547bdcd87adaeded291fbbb3beead6e7989068af26",
+            "target": "4fdc96432cf5408ec1f528ae63c463deab561436958f88fcee780790",
+            "value": 3
+        },
+        {
+            "source": "52224fa3456dd6e0c706bb68e155be738c1ad6c05b57e8d06433156d",
+            "target": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "value": 3
+        },
+        {
+            "source": "52224fa3456dd6e0c706bb68e155be738c1ad6c05b57e8d06433156d",
+            "target": "d103771cb166fb2f5ad2b40762d173ecd484fd2e0701d074e9e28563",
+            "value": 3
+        },
+        {
+            "source": "52224fa3456dd6e0c706bb68e155be738c1ad6c05b57e8d06433156d",
+            "target": "91e80bb274afb50206ff2577e2e7dca5411a44285081d82e230b7954",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "eb52c8c86d6ad5d1f68f25faeda0329e676047ba579ae333bd0aefe3",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "b78aa95658e1de9448bcf666e997f5d3eb0de911aef0b41fa56244c4",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "efaf88557c620e99b848c55cd5d262b7741a270335c96402e104a489",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "b9a0a15c68b6b0cb777fdb50abe5ec17103323b3b186ec5666d6e805",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "d8308e1541d9ff504fedb869cd49a3aad3dbe3c9701e76c6310aa12f",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "7a03ee784b48425d612990f925a9becc88a5966c0c3b5a8d56735236",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "d636bca50a2c3520a9e21874b25bddd504e4357ec9890177e83e0a34",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "cf13323ffebc722923c308c1f201262e4546fef6a30074b1e08a215f",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "03cddf11c7cb55f396d34de2a50e22bba3320ecf418fafa08774c65e",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "d103771cb166fb2f5ad2b40762d173ecd484fd2e0701d074e9e28563",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "d9b44517bcf185bc7e61b37c1dd0006b485b8348ac802ebffb461a03",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "b1453e62b399585f5146e83510d051adf1e6fc05c8db68ccc152edb0",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "4fdc96432cf5408ec1f528ae63c463deab561436958f88fcee780790",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "e99248202a3d6a91dcb56166867fc8fe728497fec64b6b699f8c9737",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "0ca3068d3d57dfc256521676bd3d1bd889be2c0d9bcdc0e205bcf8a6",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "507c4ae6eab46bcedee225c14bb9dc3baf2005c07b0bcc54a1f59970",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "c8f614710c04c03b7d8e202ae94f96c1e80659a62fa51b69d0d06bda",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "ad3dd68893b9476f0221dd37ec84d9812660288070d4cbbe500dabe0",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "5afa914b5d6402ed4a6bfd2e924e653432430ac90d5068d3d102ced9",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "61c18551601db5dd2cdb4e8c6dd065351180fdf10db3a3010ab5177e",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "8eec45866b3edc3738ac078f4986bec0406f7a11f974741c862f4498",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "7d35881a393ab7cc7e0ef40bdae3a87d7ff53adfaec6030c5846e0b4",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "8aa22f02cbc63ca9e5dfa8ff423639ee903b6c0fa673f4fbdee38b3a",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "1dbdcf2ba28162cac3561792540046a0e38c91b7f0120c2d8168dab5",
+            "value": 3
+        },
+        {
+            "source": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "target": "a0d3283f140f45cd7cb8cf24957640179916fd66ea492d1d63ed4a9d",
+            "value": 3
+        },
+        {
+            "source": "d2d7653ad5a6fa624ceb5e8bf96c94c230e02cfc94d21540ec7397bb",
+            "target": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "value": 3
+        },
+        {
+            "source": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "target": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "value": 3
+        },
+        {
+            "source": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "target": "855cf98a8435ac8fbc191fbce2c14c6e284fc5a229654cbdc718def8",
+            "value": 3
+        },
+        {
+            "source": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "target": "cbb330a41bceb5eb769a8db590bd8ed7a1463cbd88cf1599c22bc496",
+            "value": 3
+        },
+        {
+            "source": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "target": "d184bdc09bba1d5552ada63a4c4ae70b99383bfb462bc90dce6cf384",
+            "value": 3
+        },
+        {
+            "source": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "target": "b1453e62b399585f5146e83510d051adf1e6fc05c8db68ccc152edb0",
+            "value": 3
+        },
+        {
+            "source": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "target": "d8308e1541d9ff504fedb869cd49a3aad3dbe3c9701e76c6310aa12f",
+            "value": 3
+        },
+        {
+            "source": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "target": "738f2d00b45891b1da6385e6180bd32a388dc9bacaf9b49bd44870d1",
+            "value": 3
+        },
+        {
+            "source": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "target": "d291d201ccc67ed439907935123ba2cf7f9c59960a05636078c8adc0",
+            "value": 3
+        },
+        {
+            "source": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "target": "52224fa3456dd6e0c706bb68e155be738c1ad6c05b57e8d06433156d",
+            "value": 3
+        },
+        {
+            "source": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "target": "fc9d9e8383f08f86289d475dcff077dcd387d06fbcaa0f7b976abe86",
+            "value": 3
+        },
+        {
+            "source": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "target": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "value": 3
+        },
+        {
+            "source": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "target": "d2d7653ad5a6fa624ceb5e8bf96c94c230e02cfc94d21540ec7397bb",
+            "value": 3
+        },
+        {
+            "source": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "target": "de5e185cabc38d55055636c5a3fe0fdad1f6fdd2ba318b714cfdda52",
+            "value": 3
+        },
+        {
+            "source": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "target": "8eb293a6b425c03468c7122f77aec39f69601047a1a198e05fba5bf1",
+            "value": 3
+        },
+        {
+            "source": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "target": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "value": 3
+        },
+        {
+            "source": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "target": "e48f803623c9591786b526166d44938cb35b46b04299d0523e61bdf5",
+            "value": 3
+        },
+        {
+            "source": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "target": "d184bdc09bba1d5552ada63a4c4ae70b99383bfb462bc90dce6cf384",
+            "value": 3
+        },
+        {
+            "source": "a0d3283f140f45cd7cb8cf24957640179916fd66ea492d1d63ed4a9d",
+            "target": "8cf5bbeab773f5547bdcd87adaeded291fbbb3beead6e7989068af26",
+            "value": 3
+        },
+        {
+            "source": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "target": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "value": 3
+        },
+        {
+            "source": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "target": "93f52e364cf0cf4e72c3bf29d451faae7523b54d870660f90253ee08",
+            "value": 3
+        },
+        {
+            "source": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "target": "15b19d2a5feee0ef67389c1438df21526897bbd3d6884b660c97f042",
+            "value": 3
+        },
+        {
+            "source": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "target": "b555b511ae033da6d68348cabe4c2c975caaa98b0022845175eb754e",
+            "value": 3
+        },
+        {
+            "source": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "target": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "value": 3
+        },
+        {
+            "source": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "target": "d8308e1541d9ff504fedb869cd49a3aad3dbe3c9701e76c6310aa12f",
+            "value": 3
+        },
+        {
+            "source": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "target": "91e80bb274afb50206ff2577e2e7dca5411a44285081d82e230b7954",
+            "value": 3
+        },
+        {
+            "source": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "target": "d2d7653ad5a6fa624ceb5e8bf96c94c230e02cfc94d21540ec7397bb",
+            "value": 3
+        },
+        {
+            "source": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "target": "aa2da63695aba939d51d2c56656134b069867955a16676faed9839ec",
+            "value": 3
+        },
+        {
+            "source": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "target": "75ef07d8c4cc40324d4078d17d07514205971099e7baacc255b809d3",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "1130fb2cf6f41d9c7611a628cfe1f62f24cc960d90f533e9f1e3f736",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "75ef07d8c4cc40324d4078d17d07514205971099e7baacc255b809d3",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "aa2da63695aba939d51d2c56656134b069867955a16676faed9839ec",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "5f96b87e08c9fd3c076a8bf95b8d8efcdfc0342e4d4bc669bb448757",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "d184bdc09bba1d5552ada63a4c4ae70b99383bfb462bc90dce6cf384",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "7a982e9de5ca53ed73fd1e58a57056fff2c2e00143fa82ece2eb97c3",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "46825fd18a21678c316edc3b876db334cec447403baa273129f5f7bb",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "d2d7653ad5a6fa624ceb5e8bf96c94c230e02cfc94d21540ec7397bb",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "94d87546b10ea65e72d30e0b4439998e730ba6edf3e8f5626ac0941c",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "5a0483bccaa88a78c0cd6eb71f865079e41802d29f3e534a641123e8",
+            "value": 3
+        },
+        {
+            "source": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "target": "5f84835eb3165a9a9bf31ef60debe60c3a8a354de0956e607994fa56",
+            "value": 3
+        },
+        {
+            "source": "de5e185cabc38d55055636c5a3fe0fdad1f6fdd2ba318b714cfdda52",
+            "target": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "value": 3
+        },
+        {
+            "source": "de5e185cabc38d55055636c5a3fe0fdad1f6fdd2ba318b714cfdda52",
+            "target": "d291d201ccc67ed439907935123ba2cf7f9c59960a05636078c8adc0",
+            "value": 3
+        },
+        {
+            "source": "de5e185cabc38d55055636c5a3fe0fdad1f6fdd2ba318b714cfdda52",
+            "target": "8eb293a6b425c03468c7122f77aec39f69601047a1a198e05fba5bf1",
+            "value": 3
+        },
+        {
+            "source": "de5e185cabc38d55055636c5a3fe0fdad1f6fdd2ba318b714cfdda52",
+            "target": "aa2da63695aba939d51d2c56656134b069867955a16676faed9839ec",
+            "value": 3
+        },
+        {
+            "source": "de5e185cabc38d55055636c5a3fe0fdad1f6fdd2ba318b714cfdda52",
+            "target": "738f2d00b45891b1da6385e6180bd32a388dc9bacaf9b49bd44870d1",
+            "value": 3
+        }
+    ],
+    "nodes": [
+        {
+            "description": "Biz Duygu & Bilgehan.\n\n2014 Nisan\u2019\u0131nda hayat\u0131m\u0131z\u0131 ba\u015ftan \u00e7izmeye karar verdik. Daha dolu dolu, \u00e7ok daha aktif bir hayat kurman\u0131n pe\u015fine d\u00fc\u015ft\u00fck. Ad\u0131n\u0131 da Biz Evde Yokuz koyduk ve websitemizi a\u00e7t\u0131k. \n\nwww.bizevdeyokuz.com\n\nDeneyim ve aktiviteleri koval\u0131yor, \u00f6lmeden \u00f6nce yap\u0131lacaklar listemizin \u00fczerine bir bir \u00e7izik at\u0131yoruz. Bunun i\u00e7inde yaban hayat i\u00e7in g\u00f6n\u00fcll\u00fc olmak da var, bisikletle tura \u00e7\u0131kmak da, serbest para\u015f\u00fctle adrenalin patlamas\u0131 ya\u015famak da, Do\u011fu Ekspresi ile \u00fclkenin bir ucundan \u00f6b\u00fcr\u00fcne gidip, buzla kaplanm\u0131\u015f \u00c7\u0131ld\u0131r G\u00f6l\u00fc\u2019n\u00fc delip, bal\u0131k tutmak da, ba\u015fka \u00fclkelerde macera kovalamak da...\n\nSizler i\u00e7in de t\u00fcm bunlarla ilgili bilgileri, sizin de nas\u0131l yapabilece\u011finizi bir rehber haline getirerek websitemizde ve bu kanaldaki videolar\u0131m\u0131zda e\u011flenceli bir \u015fekilde anlat\u0131yoruz. \n\nKanal\u0131m\u0131za abone olmay\u0131 ve websitemize g\u00f6z gezdirmeyi unutmay\u0131n :)\n\nBizimle ilgili daha detayl\u0131 bilgi:\nhttp://www.bizevdeyokuz.com/biz-kimiz/",
+            "group": 1,
+            "id": "cf13323ffebc722923c308c1f201262e4546fef6a30074b1e08a215f",
+            "name": "Biz Evde Yokuz",
+            "url": "https://www.youtube.com/user/bizevdeyokuz",
+            "view_cnt": "3,384,988"
+        },
+        {
+            "description": "Hayallerimde Ben... blog ve bir video g\u00fcnl\u00fck, temelinde ise hayallere uzanan bir yolculuk hikayesi. Merhaba, ben Ebru :)\n\nS\u0131k\u00e7a Sorulan Sorular i\u00e7in http://hayallerimdeben.com/iletisim adresine g\u00f6z atabilirsiniz.",
+            "group": 1,
+            "id": "0ca3068d3d57dfc256521676bd3d1bd889be2c0d9bcdc0e205bcf8a6",
+            "name": "Hayallerimde Ben",
+            "url": "https://www.youtube.com/user/hayallerimdeben",
+            "view_cnt": "742,454"
+        },
+        {
+            "description": "Kitap, film, edebiyat, felsefe, sohbet, vlog...",
+            "group": 1,
+            "id": "8aa22f02cbc63ca9e5dfa8ff423639ee903b6c0fa673f4fbdee38b3a",
+            "name": "Erdi Karadeniz",
+            "url": "https://www.youtube.com/erdikaradeniz",
+            "view_cnt": "129,515"
+        },
+        {
+            "description": "Kar\u0131Koca Gaming, 2014\u2019\u00fcn \u015eubat ay\u0131nda \u0130lker Kara\u015f ve Ceyda Do\u011fan Kara\u015f\u2019\u0131n ortak fikri olarak ortaya \u00e7\u0131km\u0131\u015f, 2015'in Ocak ay\u0131nda da yay\u0131n hayat\u0131na ge\u00e7mi\u015f bir websitesidir. Gamer bir \u00e7iftin bak\u0131\u015f a\u00e7\u0131s\u0131yla sosyal hayat ve teknoloji odak al\u0131nmaktad\u0131r.",
+            "group": 1,
+            "id": "5f84835eb3165a9a9bf31ef60debe60c3a8a354de0956e607994fa56",
+            "name": "Kar\u0131Koca Gaming",
+            "url": "https://www.youtube.com/channel/UC5rJIf6G9C53RbHceEEIG-g",
+            "view_cnt": "61,101"
+        },
+        {
+            "description": "Oyunlar, diziler, filmler, kitaplar \u00fczerine kurals\u0131z muhabbetler. Kendimizi e\u011flendiriyor, sizinle payla\u015f\u0131yoruz :).\n\nBizi Twitter'da takip edebilirsiniz: twitter.com/SonOyuncak\nYa da Facebook'ta bulabilirsiniz: facebook.com/SonOyuncak",
+            "group": 1,
+            "id": "aa2da63695aba939d51d2c56656134b069867955a16676faed9839ec",
+            "name": "Son Oyuncak",
+            "url": "https://www.youtube.com/channel/UCYCSr6ZT8U9FUFs-TyXFg1w",
+            "view_cnt": "47,324"
+        },
+        {
+            "description": "EVOY evli bir \u00e7iftin (Burak ve Burcu) Youtube \u00fczerinden oyun oynad\u0131\u011f\u0131 ve oynarken ya\u015fad\u0131klar\u0131 e\u011flenceyi sevenleriyle payla\u015ft\u0131\u011f\u0131 Playstation odakl\u0131 bir olu\u015fumdur :)  Bu olu\u015fumdaki yegane hedefimiz, herkesin birbiri ile sevgi ve sayg\u0131 \u00e7er\u00e7evesinde e\u011flenmesini sa\u011flamakt\u0131r. Yani aile salonumuz vard\u0131r ;)  Gelin siz de EVOY ailesine kat\u0131l\u0131n :)\n\nBu arada ailemizde EVOYCU'lar olarak;\n\n- K\u00fcf\u00fcr, hakaret i\u00e7erikli iletiler g\u00f6ndermiyoruz. Ele\u015ftirilerimizi ve yorumlar\u0131m\u0131z\u0131 sayg\u0131 ve ahl\u00e2k s\u0131n\u0131rlar\u0131 i\u00e7inde yap\u0131yoruz. \n\n- Kanalla ilgili t\u00fcm mecralarda yorum yaparken T\u00fcrk\u00e7e dil bilgisi ve imla kurallar\u0131na dikkat ediyoruz. \n\n- Yorum yaparken sayfan\u0131n d\u00fczenini korumak ad\u0131na art arda ayn\u0131 i\u00e7erikli (Spam) mesaj g\u00f6ndermiyoruz. \n\n- Spoiler gibi, oyunlardan alaca\u011f\u0131m\u0131z keyfi d\u00fc\u015f\u00fcrecek payla\u015f\u0131mlarda bulunmuyoruz.\n\n- Reklam ama\u00e7l\u0131, illegal i\u00e7erikli,  siyasi, dini, \u0131rk\u00e7\u0131 ve cinsel y\u00f6nden tahrik edici g\u00f6nderiler yapm\u0131yoruz ve \n\n- Bu s\u00f6ylediklerimize riayet etmeyen arkada\u015flar\u0131 aram\u0131zda bar\u0131nd\u0131rm\u0131yoruz.",
+            "group": 1,
+            "id": "fc9d9e8383f08f86289d475dcff077dcd387d06fbcaa0f7b976abe86",
+            "name": "Evli ve Oyuncu",
+            "url": "https://www.youtube.com/user/evliveoyuncu",
+            "view_cnt": "11,028,753"
+        },
+        {
+            "description": "",
+            "group": 1,
+            "id": "5f96b87e08c9fd3c076a8bf95b8d8efcdfc0342e4d4bc669bb448757",
+            "name": "Bobin Kafa",
+            "url": "https://www.youtube.com/channel/UCMB8EzN-u5FJ5hPzQNyGH5A",
+            "view_cnt": 0
+        },
+        {
+            "description": "",
+            "group": 1,
+            "id": "eb52c8c86d6ad5d1f68f25faeda0329e676047ba579ae333bd0aefe3",
+            "name": "Ilg\u0131n \u00d6zgan",
+            "url": "https://www.youtube.com/user/whereisilgin",
+            "view_cnt": 0
+        },
+        {
+            "description": "Bu bir ki\u015fisel video blogtur.\nHakk\u0131nda d\u00fc\u015f\u00fcnd\u00fc\u011f\u00fcm konular\u0131 derledi\u011fim bir video-blog serisi yap\u0131yorum.\n\nHer gece akl\u0131n\u0131za gelen ve h\u0131zl\u0131ca ge\u00e7i\u015ftirdi\u011finiz baz\u0131 ilgin\u00e7 ayr\u0131nt\u0131lar var. \u0130\u015fte ben 2011'de 10 Aral\u0131k'\u0131 11 Aral\u0131k'a ba\u011flayan gece \u00f6yle bir \u015fey ya\u015fad\u0131m ki bildi\u011fim b\u00fct\u00fcn \u015feyleri unutmak ve s\u0131f\u0131rdan bunlar\u0131 d\u00fc\u015f\u00fcnmek zorunda kald\u0131m.\n\nFark etti\u011fim \u015feyin \u00e7ok uzun zamand\u0131r baz\u0131 insanlar taraf\u0131ndan fark edilip hayk\u0131ra hayk\u0131ra anlat\u0131ld\u0131\u011f\u0131n\u0131 g\u00f6r\u00fcp \u015fa\u015f\u0131rd\u0131m ve ben de eskiden beri yapt\u0131\u011f\u0131m video bloglar\u0131 bir kenara b\u0131rakarak anlad\u0131\u011f\u0131m bu ger\u00e7e\u011fi anlatmak istedim. Bunun i\u00e7in sezon sistemi ile videolar \u00e7ekiyorum.\n\nAnlatt\u0131\u011f\u0131m \u015feylerin bilim d\u00fcnyas\u0131nda g\u00f6rebildi\u011fim izd\u00fc\u015f\u00fcmlerini payla\u015fmakla beraber, bunu yapt\u0131\u011f\u0131m i\u00e7in videolara bir belgesel muamelesi yap\u0131lmamas\u0131 gerekti\u011fini eklemek isterim. Bilimin hi\u00e7bir alan\u0131nda ciddi bir e\u011fitim g\u00f6rmedim, uzmanl\u0131\u011f\u0131m olmayan konularda ard\u0131nda durabilecek kadar sa\u011flam arg\u00fcmanlar \u00fcretemeyece\u011fim de a\u00e7\u0131k.\n\n\u0130yi seyirler.",
+            "group": 1,
+            "id": "03cddf11c7cb55f396d34de2a50e22bba3320ecf418fafa08774c65e",
+            "name": "Nebuch",
+            "url": "https://www.youtube.com/user/Nebuch",
+            "view_cnt": "2,915,322"
+        },
+        {
+            "description": "Nintendocu.com Resmi Youtube Kanal\u0131\n\nResmi Facebook Grubu : www.facebook.com/groups/nintendocu\nResmi Site : www.nintendocu.com",
+            "group": 1,
+            "id": "366efdbdd208cde2006f9798d7c85894499a5475b7b739c1f3252224",
+            "name": "Nintendocu",
+            "url": "https://www.youtube.com/channel/UCBxCjiEcLkHOV1jlFZkMyDg",
+            "view_cnt": "7,245"
+        },
+        {
+            "description": "Oyunlar hayat\u0131m\u0131 mahvetti... Ama neyse ki 2 hakk\u0131m daha var!",
+            "group": 1,
+            "id": "e48f803623c9591786b526166d44938cb35b46b04299d0523e61bdf5",
+            "name": "Talha Aynac\u0131",
+            "url": "https://www.youtube.com/channel/UCTR8KGurxoixP3O4jIWTXIQ",
+            "view_cnt": "261,362"
+        },
+        {
+            "description": "Giderek s\u0131radanla\u015fan bir end\u00fcstride, y\u00fcksek performansl\u0131 kod ve kariyer \u00fcretebilmek i\u00e7in fikirler.",
+            "group": 1,
+            "id": "8cf5bbeab773f5547bdcd87adaeded291fbbb3beead6e7989068af26",
+            "name": "Yal\u0131n Kod",
+            "url": "https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ",
+            "view_cnt": "116,708"
+        },
+        {
+            "description": "\"Selam millet ben Baran\" baz\u0131lar\u0131n\u0131z Ek\u015fi S\u00f6zl\u00fck'ten, baz\u0131lar\u0131 IGN ve Oyungezer'den tan\u0131yor beni. \u0130lk defa kanal\u0131ma gelenler i\u00e7in bir iki c\u00fcmle ile ne yapt\u0131\u011f\u0131m\u0131 anlatay\u0131m. \n\nBuras\u0131 benim ki\u015fisel kanal\u0131m. Dizi, film, \u00e7izgi roman, oyun incelemeleri yer al\u0131yor. VLOG ad\u0131 alt\u0131nda kendimi ve arkada\u015flar\u0131m\u0131 e\u011flendirmek i\u00e7in \u00e7ekti\u011fim videolar yer al\u0131yor. Kanal\u0131n belirli bir konsepti yok, dedi\u011fim gibi \u015fahsi kanal\u0131m. Yar\u0131n gitti\u011fim bir konserin ele\u015ftirisini de yay\u0131mlayabilirim :) Ama a\u011f\u0131rl\u0131k ve d\u00fczen tamamen incelemeler ve bilgilendirici videolar \u00fczerine.\n\n\u0130stedi\u011finiz soruyu sorabilirsiniz, \"abi biz Taksim'e \u00e7\u0131k\u0131yoruz gel istersen\" diye davet edip hesab\u0131 bana kilitleyebilirsiniz. \n\nSevgiler",
+            "group": 1,
+            "id": "738f2d00b45891b1da6385e6180bd32a388dc9bacaf9b49bd44870d1",
+            "name": "Baran K\u00f6se",
+            "url": "https://www.youtube.com/channel/UC_ay7swxr5cDzVbY_ul-_fg",
+            "view_cnt": "3,162,859"
+        },
+        {
+            "description": "Aloha, An\u0131l \u00c7elikkaya. Youtube T\u00fcrkiye'nin ilk Sinema Kanal\u0131 olan Ezgi'nin Kanal\u0131'ndan sonra, \"An\u0131l'\u0131n Kaleminden\" adl\u0131 2.Kanal\u0131m\u0131z\u0131 a\u00e7t\u0131k.\nHayat\u0131n\u0131 \u00c7izgi Film Yap\u0131mc\u0131l\u0131\u011f\u0131na adam\u0131\u015f biri olarak; burada \u00c7izgi Roman \u0130ncelemeleri, e\u011flenceli \u00c7izim videolar\u0131 ile birlikte, Animasyon & \u0130ll\u00fcstrasyon sanat\u0131na dair komik videolar payla\u015f\u0131yorum. Storyboard, karakter tasar\u0131m\u0131 ve fig\u00fcrlerden arda kalan zamanda da art\u0131k can\u0131m ne isterse...\n\nAmac\u0131m, ger\u00e7ek birer Nerd gibi; sevdi\u011finiz i\u015fe sadece g\u00f6nl\u00fcn\u00fcz\u00fc de\u011fil akl\u0131n\u0131z\u0131 da koyman\u0131z\u0131 sa\u011flamak.\n\nMimar Sinan GSF Resim B\u00f6l\u00fcm\u00fc / \u00c7izgi-Film Tutkunu / Hikaye ve Karakter Olu\u015fturma / \u00c7izgi Roman / Storyboard / Ill\u00fcstrasyon / Antalya-\u0130stanbul\n\ninstagram: @illustratorann\n\nI'm An\u0131l \u00c7elikkaya who creates content for the first movie channel on YouTube;  \"Ezgi'nin Kanal\u0131\"\nMimar Sinan Art Department/ Cartoonist. Developing Characters and Stories, Comics, Storyboarding, Illustrating / Antalya-\u0130stanbul.",
+            "group": 1,
+            "id": "855cf98a8435ac8fbc191fbce2c14c6e284fc5a229654cbdc718def8",
+            "name": "An\u0131l'\u0131n Kaleminden",
+            "url": "https://www.youtube.com/channel/UC2oDRxw6cze98MY6lDlKW5A",
+            "view_cnt": "3,741,228"
+        },
+        {
+            "description": "Pop\u00fcler olma kayg\u0131s\u0131 g\u00fctmeden insanlara ula\u015fmak ve onlar\u0131 d\u00fc\u015f\u00fcnd\u00fcrmek isteyen, bunu yaparken de i\u00e7eriklerinde \u00f6zg\u00fcn olmay\u0131 hedefleyen bir olu\u015fum FOREVER BROTHERS COOPERATION.",
+            "group": 1,
+            "id": "5afa914b5d6402ed4a6bfd2e924e653432430ac90d5068d3d102ced9",
+            "name": "For.Bros. Co",
+            "url": "https://www.youtube.com/channel/UCZ-wwwxFE-mVzapFBIUSASg",
+            "view_cnt": "301,176"
+        },
+        {
+            "description": "\u00f6yle i\u015fte...",
+            "group": 1,
+            "id": "ad3dd68893b9476f0221dd37ec84d9812660288070d4cbbe500dabe0",
+            "name": "Lin Pesto",
+            "url": "https://www.youtube.com/channel/UCvEyNtbbOsHb1kEqJTkGi9w",
+            "view_cnt": "752,243"
+        },
+        {
+            "description": "Derin Biricik'in ve yak\u0131nlar\u0131n\u0131n hayat\u0131ndan bir \u015feyler. Sinemac\u0131 tayfas\u0131 i\u015fte. \u0130stanbul'day\u0131z.\n\u0130\u015f ve sponsorluk i\u00e7in: dbiricikinfo@gmail.com\n\nS\u0131k\u00e7a Sorulan Sorular:\nS: Sinema E\u011fitimin Var M\u0131?\nC: Lise ve \u00fcniversite dahil 8 Y\u0131ll\u0131k Sinema E\u011fitimim var.\n\nS: Okul?\nC: Dokuz Eyl\u00fcl Film Tasar\u0131m\u0131 ve Y\u00f6netmenlik Mezunuyum.\n\nS: Nerelerdesin?\nC: \u00c7o\u011funlukla Kad\u0131k\u00f6y taraf\u0131nda, beni g\u00f6r\u00fcrsen ad\u0131m\u0131 ba\u011f\u0131r.\n\nS: Ka\u00e7 Ya\u015f\u0131ndas\u0131n?\nC: 23\n\nS: Kurguyu nas\u0131l yap\u0131yorsun?\nC: Premiere Pro C.C. 2017 ve bolca vakit.\n\nS: \u0130zlenmenden \u00e7ok abonen var neden?\nC: O oran asla tutmaz, bunun yan\u0131nda eskiden bu kanal \"Babam da Oyuncu\" diye bir oyun kanal\u0131yd\u0131.\n\nS:Tekrar Oyun Videosu \u00c7ekecek misin?\nC: Hay\u0131r. O hayat\u0131m\u0131n bir d\u00f6nemiydi, ge\u00e7mi\u015fte g\u00fczel bir an\u0131 olarak kals\u0131n.\n\nS: Ekipmanlar\u0131n?\nC: Ana kamera: Canon 7d (28mm, 50mm, 85mm 1.8 lensler ile)\nMikrofon: Rode Videomic\nK\u00fc\u00e7\u00fck Kamera: Gopro Hero 5 Black\nDi\u011fer Kamera: Iphone 6s (\u00e7e\u015fitli lenslerle)\nDi\u011fer Di\u011fer Kamera: s\u00fcrpriz.",
+            "group": 1,
+            "id": "52224fa3456dd6e0c706bb68e155be738c1ad6c05b57e8d06433156d",
+            "name": "Derin Biricik",
+            "url": "https://www.youtube.com/channel/UCWIk99HAEeiJZZskZ0day3A",
+            "view_cnt": "198,818"
+        },
+        {
+            "description": "",
+            "group": 1,
+            "id": "b78aa95658e1de9448bcf666e997f5d3eb0de911aef0b41fa56244c4",
+            "name": "Ba\u015fak Kablan",
+            "url": "https://www.youtube.com/channel/UCuZ6G466XodI8wchTHLQaxg",
+            "view_cnt": 0
+        },
+        {
+            "description": "Oynuyoruz, izliyoruz, dinliyoruz, oturup saatlerce lafl\u0131yoruz. O zaman neden payla\u015fm\u0131yoruz :P\n\nModerasyon ilkeleri: 1) Video ile ilgisiz yorumlar, 2) Spam i\u00e7eren yorumlar ve 3) Sald\u0131rgan, hakaret i\u00e7eren, nefret s\u00f6ylemi bar\u0131nd\u0131ran yorumlar silinecektir.",
+            "group": 1,
+            "id": "75ef07d8c4cc40324d4078d17d07514205971099e7baacc255b809d3",
+            "name": "Party Chat",
+            "url": "https://www.youtube.com/channel/UCT17FCaszANfqanlTSiKMwg",
+            "view_cnt": "462,986"
+        },
+        {
+            "description": "Hi ! We are Review Muchachos, our channel is dedicated to give details about life in variant perspectives. The unknown details are being revealed in this channel including about games , movies , products and so on. We would hope you enjoy watching us. We are here to examine & experience fabulous unboxing packages , craziest game plays , movie reviews, social flick ups. Keep connected & and see the incarnated wisdom in you.\n\nGAMING SYSTEMS:\nPS4-NINTENDO WIIU-NITENDO 3DS-PS VITA SLIM-PS2-MACBOOK AIR-IPHONE 6PLUS-\n\n2 VIDEOS PER WEEK!\n\nFOLLOW US!\n\ncontact : reviewbross@gmail.com mail",
+            "group": 1,
+            "id": "8eb293a6b425c03468c7122f77aec39f69601047a1a198e05fba5bf1",
+            "name": "Review Broow",
+            "url": "https://www.youtube.com/channel/UCYtRIS7oHz74nlG6Rt-26hA",
+            "view_cnt": "71,330"
+        },
+        {
+            "description": "Spiker / Seslendirme Sanat\u00e7\u0131s\u0131 Nisan Kumru\nK\u0130TAPLAR, \u015e\u0130\u0130RLER. D\u0130KS\u0130YON DERSLER\u0130, SESL\u0130 K\u0130TAPLAR..\nDi\u011fer kanal: youtube.com/CantadaKitap\n\n\u00d6NEML\u0130 NOT: Buradaki videolar indirilip ba\u015fka bir kanalda yay\u0131nlanamaz.\nAncak kayna\u011f\u0131ndan al\u0131narak kendi oynatma listenize ekleyebilirsiniz.\nBuradaki sesler al\u0131n\u0131p hi\u00e7bir internet radyo tv veya karasal radyo tv de yay\u0131nlanamaz.",
+            "group": 1,
+            "id": "61c18551601db5dd2cdb4e8c6dd065351180fdf10db3a3010ab5177e",
+            "name": "Nisan Kumru",
+            "url": "https://www.youtube.com/user/nisankumru",
+            "view_cnt": "842,333"
+        },
+        {
+            "description": "Film, sinema, yabanc\u0131 dizi, fragman, oyun, \u00e7izgi roman inceleme, sohbet, ele\u015ftiri, yorum, \u00f6neriler, tavsiyeler, en iyiler kanal\u0131!\n\n\u0130yi Seyirler!",
+            "group": 1,
+            "id": "1130fb2cf6f41d9c7611a628cfe1f62f24cc960d90f533e9f1e3f736",
+            "name": "Hakan'\u0131n K\u00f6\u015fesi",
+            "url": "https://www.youtube.com/user/thejeffhardy94",
+            "view_cnt": "1,020,683"
+        },
+        {
+            "description": "I tell stories about art, design and technology.\nSanat, tasar\u0131m ve teknoloji konular\u0131na \"hikaye anlat\u0131c\u0131l\u0131\u011f\u0131\" (storytelling) perspektifinden bak\u0131\u015f.",
+            "group": 1,
+            "id": "1548598b0c27d042cb8c33b09b2142486b04f2366f06b2fe8baea4de",
+            "name": "Bar\u0131\u015f \u00d6zcan",
+            "url": "https://www.youtube.com/channel/UCv6jcPwFujuTIwFQ11jt1Yw",
+            "view_cnt": "48,579,458"
+        },
+        {
+            "description": "Herkese merhaba arkada\u015flar. Birbirinden harika oyun videolar\u0131n\u0131, koleksiyon videolar\u0131n\u0131, kutu a\u00e7\u0131l\u0131\u015flar\u0131n\u0131 ve pokemon kart paketi a\u00e7\u0131l\u0131\u015flar\u0131n\u0131 bu kanalda bulabilirsiniz. Sizleri de aram\u0131zda g\u00f6rmek isteriz. Ho\u015f geldiniz, iyi seyirler.",
+            "group": 1,
+            "id": "91e80bb274afb50206ff2577e2e7dca5411a44285081d82e230b7954",
+            "name": "Retro Ar\u015fiv",
+            "url": "https://www.youtube.com/channel/UChKs1wL9hA5K0jSIm7rt83Q",
+            "view_cnt": "2,313,602"
+        },
+        {
+            "description": "U\u011fur ad\u0131nda 23 ya\u015f\u0131nda bir vatanda\u015f\u0131m oyunlar\u0131 severim te\u015fekk\u00fcrler.\n\nBilgisayar\u0131m\nWindows 10 i\u015fletim sistemi\ni3 4170 i\u015flemci\nGSKILL 8GB RipjawsX DDR3 1600MHz CL10 Tek Mod\u00fcl Ram\nASUS R9 270 ekran kart\u0131\nASUS H81M-C anakart\nSamsung 850 EVO SSD 120 gb\n1TB WD sabit disk\nThermaltake VERSA II 500W g\u00fc\u00e7 kaynakl\u0131 kasa",
+            "group": 1,
+            "id": "b555b511ae033da6d68348cabe4c2c975caaa98b0022845175eb754e",
+            "name": "Gambell",
+            "url": "https://www.youtube.com/user/gambellgaming",
+            "view_cnt": "2,107,649"
+        },
+        {
+            "description": "Piksellerin arkas\u0131ndaki diyarlara ait en geni\u015f hik\u00e2ye ar\u015fivi...\nhttp://lorekeeper.net/",
+            "group": 1,
+            "id": "4b0d88d56dfeeb2895127e202d19caa180022d9e882103b578f771eb",
+            "name": "Lorekeeper",
+            "url": "https://www.youtube.com/channel/UC7TNPUNmxaC_SaFgUIkY66Q",
+            "view_cnt": "235,009"
+        },
+        {
+            "description": "\u00c7o\u011funlukla Eski / Klasik oyun ve oyun cihazlar\u0131 / konsollar\u0131 tan\u0131t\u0131mlar\u0131, modifiyeleri....\nMostly Retro Gaming Stuff... Mods, Crafts and Reviews",
+            "group": 1,
+            "id": "d291d201ccc67ed439907935123ba2cf7f9c59960a05636078c8adc0",
+            "name": "Cengiz's Retro Game Room",
+            "url": "https://www.youtube.com/user/cengizermis1",
+            "view_cnt": "528,318"
+        },
+        {
+            "description": "Selamlar dostlar. ben Tayfun Erkan. 23 ya\u015f\u0131nday\u0131m. \n\nSNES konsolundan itibaren, PS1, N64, NES, Gameboy, Sega Dreamcast, Gamecube vs.. konsollarla oyun oynayarak \nb\u00fcy\u00fcd\u00fcm. Yakla\u015f\u0131k 6 y\u0131ld\u0131r oyun sekt\u00f6r\u00fcnde \u00e7al\u0131\u015f\u0131yorum. 2010 senesinde giri\u015f yapt\u0131\u011f\u0131m oyun sekt\u00f6r\u00fcne 2 y\u0131l TrGamer, 3 y\u0131l Merlin'in Kazan\u0131'nda ve 1 y\u0131l da OyunGezer gibi sayg\u0131n oyun siteleri ve dergilerinde yazarl\u0131k yapt\u0131m. Bilgilerime ve oyuncu k\u00fclt\u00fcr\u00fcme g\u00fcveniyorum. ^^\n\n\u0130\u015f teklifleriniz i\u00e7in bana buradan ula\u015fabilirsiniz: tayfunerkan123@gmail.com\n\nSistem \u00d6zelliklerim:\n\nIntel Core i5 4460 - 4 \u00e7ekirdek, 3.2 GHZ\n\n8 GB Ram\n\nNvidia GTX 970 4GB\n\n1 TB HDD",
+            "group": 1,
+            "id": "d2d7653ad5a6fa624ceb5e8bf96c94c230e02cfc94d21540ec7397bb",
+            "name": "Tayfun'un Oyun Ser\u00fcvenleri",
+            "url": "https://www.youtube.com/channel/UCzSMdAOpywH96pgC3brHxtw",
+            "view_cnt": "1,078,930"
+        },
+        {
+            "description": "Han\u0131mlar Beyler merhabalar, ben Murat Kendugan ve bug\u00fcn... diye ba\u015flayan videolar\u0131mda sizlerle ke\u015fke ben i\u015fletme okuyorken bunu bilseydim dedi\u011fim bilgileri payla\u015f\u0131yorum. 5-6 y\u0131l \u00f6nce ba\u015flayan i\u015fletme yolculu\u011fumda tecr\u00fcbe ettiklerimi sizlerle payla\u015f\u0131rken, amac\u0131m i\u015fletme okumaya ba\u015flad\u0131\u011f\u0131n\u0131z g\u00fcnden m\u00fcd\u00fcrl\u00fc\u011f\u00fcn\u00fcz\u00fcn ilan edildi\u011fi ana kadar kar\u015f\u0131la\u015fabilece\u011finiz hemen her t\u00fcrl\u00fc duruma kar\u015f\u0131 haz\u0131rl\u0131kl\u0131 olman\u0131z\u0131 sa\u011flayacak bir rehber olu\u015fturmak. Her Pazar saat 09.00'da sizleri YouTube kanal\u0131ma bekliyorum. Videolardan haberdar olmak i\u00e7in kanal\u0131ma abone olup, zili aktifle\u015ftirebilirsiniz. Tekrar g\u00f6r\u00fc\u015fenedek, ho\u015f\u00e7akal\u0131n!",
+            "group": 1,
+            "id": "7d35881a393ab7cc7e0ef40bdae3a87d7ff53adfaec6030c5846e0b4",
+            "name": "Murat Kendugan",
+            "url": "https://www.youtube.com/channel/UCpESV2fqvXqxxmLOoawNapA",
+            "view_cnt": "318,039"
+        },
+        {
+            "description": "Westeroslular, Essoslular, Gryffindorlar, Slytherinler, Jedilar, Sithler, Elfler, Hobbitler ve dahi bir \u015feyler okumaktan ve izlemekten keyif alan herkes, Nil\u00fcfer'in -mini- Galaksi Rehberi'ne ho\u015fgeldiniz, havlunuzu yan\u0131n\u0131za almay\u0131 unutmay\u0131n\u0131z. L\u00fctfen Mugglelar\u0131n yan\u0131nda asan\u0131z\u0131 kullanmay\u0131n\u0131z.\n\nBu kanalda filmlere, dizilere, kitaplara dair yorumlamalar/incelemeler bulacak, sevdi\u011fin pek \u00e7ok yap\u0131m hakk\u0131nda az bilinenleri duyacaks\u0131n. \nDizini izledikten sonra b\u00f6l\u00fcm incelemelerinde fikirlerini kar\u015f\u0131la\u015ft\u0131rabilir, fantastik evrenlerle ilgili eksik bilgilerini tarih videolar\u0131 ile tamamlayabilir, izledi\u011fin bir filmde g\u00f6zden ka\u00e7\u0131rm\u0131\u015f olabileceklerini duyabilir, can\u0131n s\u0131k\u0131ld\u0131\u011f\u0131nda kahveni al\u0131p muhabbetlere dahil olabilir veya farkl\u0131l\u0131k olsun diye vloglara g\u00f6z atabilirsin. \n\n\u0130\u00e7eriklerin sana hitap etti\u011fini d\u00fc\u015f\u00fcn\u00fcrsen, abone olup her zaman takipte olabilirsin ^^",
+            "group": 1,
+            "id": "15b19d2a5feee0ef67389c1438df21526897bbd3d6884b660c97f042",
+            "name": "Nil\u00fcfer Ba\u015f",
+            "url": "https://www.youtube.com/channel/UCc0QIQ2t9j_oz8PynDtaG6Q",
+            "view_cnt": "7,627,504"
+        },
+        {
+            "description": "",
+            "group": 1,
+            "id": "2e47266bf9b3637ee9d21682a81bd4ad6667d25d1e0946564654bc9b",
+            "name": "Home",
+            "url": "wiki/Konsol-%C3%9Css%C3%BC",
+            "view_cnt": 0
+        },
+        {
+            "description": "Hayata de\u011fer katan YouTube kanal\u0131.",
+            "group": 1,
+            "id": "c8f614710c04c03b7d8e202ae94f96c1e80659a62fa51b69d0d06bda",
+            "name": "\u00c7ay, Kahve, \u0130nsan",
+            "url": "https://www.youtube.com/channel/UCD37i3UdHYc9MJ1MnuQ6n2Q",
+            "view_cnt": "277,598"
+        },
+        {
+            "description": "Ortapia'ya ho\u015f geldin :)\nSinirbilim alan\u0131nda \u00e7al\u0131\u015fan bir akademisyenin ve \u00e7evresindeki g\u00fczel n\u00f6ronlu insanlar\u0131n \u00e7abalar\u0131yla olu\u015fmaya \u00e7al\u0131\u015fan bir d\u00fcnya bizimkisi. \n\n\u015eimdilik buralar hep dutluk. \nYar\u0131n ne olur kimbilir :)\n\nSerkan Karaismailo\u011flu kimdir?\nKendisi \u00e7ok k\u00fc\u00e7\u00fckken eve gelen kad\u0131n kom\u015fular\u0131n annesine sordu\u011fu \u201cbug\u00fcn beyin i\u00e7in ne yapt\u0131n?\u201d sorusunu t\u00fcm\u00fcyle yanl\u0131\u015f anlay\u0131p (me\u011ferse annemin babam i\u00e7in yapt\u0131\u011f\u0131 yeme\u011fi soruyorlarm\u0131\u015f) her g\u00fcn beyin ile ilgili yeni bir bilgi \u00f6\u011frenme \u00e7abas\u0131yla b\u00fcy\u00fcm\u00fc\u015f ama halen \u00e7ocuk olan bir yeti\u015fkindir. Her \u015feyi yapmaya \u00e7al\u0131\u015f\u0131p, hi\u00e7bir \u015feyi yapamam\u0131\u015f olman\u0131n verdi\u011fi h\u00fcz\u00fcn ve hazla ya\u015famaktad\u0131r. Doktoras\u0131n\u0131 Hacettepe \u00dcniversitesi T\u0131p Fak\u00fcltesi Fizyoloji Anabilim Dal\u0131\u2019nda \u201cbeyin cinsiyeti\u201d \u00fczerine \u00fczerine yapm\u0131\u015f olup halen ayn\u0131 kurumda \u00e7al\u0131\u015fmaya devam etmektedir. \n\u201cKad\u0131n Beyni Erkek Beyni\u201d adl\u0131 kitab\u0131 2015 y\u0131l\u0131nda \u00e7\u0131km\u0131\u015ft\u0131r. \nOrtapia projesinin kurucusudur. \n2016 y\u0131l\u0131nda T\u00dcB\u0130TAK deste\u011fi kapsam\u0131nda \u201cfizyopia\u201d adl\u0131 teknokent \u015firketini kurmu\u015ftur",
+            "group": 1,
+            "id": "93f52e364cf0cf4e72c3bf29d451faae7523b54d870660f90253ee08",
+            "name": "Ortapia",
+            "url": "https://www.youtube.com/channel/UCgj4OAKzK9Zo8RyrQ6BmCZw",
+            "view_cnt": "595,549"
+        },
+        {
+            "description": "Makyaj hakk\u0131nda makyaj d\u0131\u015f\u0131nda her \u015fey\n\nwww.kamusalmizah.com",
+            "group": 1,
+            "id": "d103771cb166fb2f5ad2b40762d173ecd484fd2e0701d074e9e28563",
+            "name": "Deniz Ba\u011fda\u015f",
+            "url": "https://www.youtube.com/channel/UC3Xu0FQeizzXhUtthFjFs8g",
+            "view_cnt": "1,922,915"
+        },
+        {
+            "description": "T\u00fcrkiye'de bisikleti konu\u015fmak, bisikleti anlatmak i\u00e7in yola \u00e7\u0131kt\u0131\u011f\u0131m\u0131z \u0130ki Teker Bir Adam ser\u00fcveninin Youtube hesab\u0131d\u0131r.",
+            "group": 1,
+            "id": "b9a0a15c68b6b0cb777fdb50abe5ec17103323b3b186ec5666d6e805",
+            "name": "\u0130ki Teker Bir Adam",
+            "url": "https://www.youtube.com/channel/UCXZLCj44uBbkE6C_viOEQqQ",
+            "view_cnt": "4,010,597"
+        },
+        {
+            "description": "Beraber ko\u015fup, bisiklete binip y\u00fcz\u00fcyoruz. Arada zirvelere t\u0131rman\u0131p, derinlere dal\u0131yoruz. \u0130zlemek istemez misin?",
+            "group": 1,
+            "id": "d9b44517bcf185bc7e61b37c1dd0006b485b8348ac802ebffb461a03",
+            "name": "Asla Durma",
+            "url": "https://www.youtube.com/channel/UC_aTJV1Wrjd78tntlVIrhKQ",
+            "view_cnt": "2,667,684"
+        },
+        {
+            "description": "YouTube T\u00fcrkiye'nin en nostaljik kanal\u0131na ho\u015f geldiniz!\n\n2015 y\u0131l\u0131nda yay\u0131n hayat\u0131m\u0131za ba\u015flad\u0131k. Retro oyunlar\u0131, oyun konsollar\u0131n\u0131, s\u00fcper kahramanlar\u0131, \u00e7izgi romanlar\u0131, dizileri ve animeleri an\u0131yor, unutulmaya y\u00fcz tutmu\u015f eskileri hat\u0131rlat\u0131yoruz. Arada bir inceleme videolar\u0131 da yap\u0131yor, veya internette dola\u015fan t\u00fcyler \u00fcrpertici hikayelerin ger\u00e7ekli\u011fini ara\u015ft\u0131r\u0131yoruz. \n\nHedefimiz; T\u00fcrkiye'nin en kapsaml\u0131 pop\u00fcler k\u00fclt\u00fcr ansiklopedisini olu\u015fturmak. Umar\u0131z nostalji damar\u0131n\u0131za yeterince basabiliyoruzdur!\n\n\u0130\u015f & Sponsurluk i\u00e7in;\nmosyopikselans@gmail.com",
+            "group": 1,
+            "id": "3e7df3e1f2ff756c5da74be7aa0163b0334a8a15900da7597fd852d3",
+            "name": "M\u00f6sy\u00f6 Pikselans",
+            "url": "https://www.youtube.com/channel/UCiS53SzWjDMQ0Z3tVLAi9gw",
+            "view_cnt": "7,562,507"
+        },
+        {
+            "description": "B\u0130Z K\u0130M\u0130Z\n\u00c7al\u0131\u015fan ve \u00fcretmek isteyen kad\u0131n\u0131n tecr\u00fcbelerini payla\u015ft\u0131\u011f\u0131 ve birbirine f\u0131rsat yaratt\u0131\u011f\u0131 dijital k\u0131z karde\u015flik \u00e7emberi.\n \nHEDEF\u0130M\u0130Z\n\u00d6\u011frenciden emekliye, kad\u0131ndan erke\u011fe, bireyden kuruma kadar t\u00fcm payda\u015flarla kad\u0131n\u0131n i\u00e7indeki i\u015f hayat\u0131 potansiyelini ke\u015ffetmesi ve bu yolculukta yaln\u0131z olmad\u0131\u011f\u0131n\u0131 bilmesini sa\u011flamak\u2026",
+            "group": 1,
+            "id": "1dbdcf2ba28162cac3561792540046a0e38c91b7f0120c2d8168dab5",
+            "name": "BinYaprak",
+            "url": "https://www.youtube.com/channel/UCB71z2RY9z408SLCf5b3Mrw",
+            "view_cnt": "194,199"
+        },
+        {
+            "description": "Sinan Akkol'un resmi Youtube sayfas\u0131na ho\u015f geldiniz. O kadar resmi ki, muhtardan ikametgah almadan video bile seyredilmiyor. O kadar yani!\n\n\u015eu an i\u015fimi g\u00f6ren emektar PC'm:\n\nIntel Core i5-3570K CPU @3.40 GHz (3.80 GHz)\nNVIDIA GeForce GTX 770\n8 GB Bellek\n64 Bit Windows 10",
+            "group": 1,
+            "id": "d184bdc09bba1d5552ada63a4c4ae70b99383bfb462bc90dce6cf384",
+            "name": "Sinan Akkol",
+            "url": "https://www.youtube.com/channel/UCCD5FzMEqbAI_w1OpRWzahQ",
+            "view_cnt": "910,145"
+        },
+        {
+            "description": "\u00d6mer ve Silvyo oyunlarla ilgi konu\u015fmay\u0131 \u00e7ok seviyorlar. E\u011fer siz de oyunlarla ilgili konu\u015fmay\u0131 veya haberleri dinlemeyi seviyorsan\u0131z, buyrun !",
+            "group": 1,
+            "id": "55740ac82496831907589f3b235e6ad73d8c5046dd6b01ffe5a0e947",
+            "name": "Oyunefendi",
+            "url": "https://www.youtube.com/channel/UCnJJCPELtCoyi4jjdi7hsmw",
+            "view_cnt": "1,759,993"
+        },
+        {
+            "description": "Oyunlar, Teknoloji ve Medya ile ilgili ilgin\u00e7 konsept videolar, ske\u00e7ler ve listeler yap\u0131yorum..\nLet's Play yok! Uuupuzun s\u0131k\u0131c\u0131 videolar yok! K\u00fcf\u00fcr, ba\u011f\u0131r\u0131\u015f yok! Enseye \u015faplak, abur cubur yemek yok! Hele Tost, Challenge, Slime hi\u00e7 yok! Kanal gibi kanal...\n\nAB\u0130, SANA NASIL ULA\u015eIRIM?\ninstagram.com/caglaravcil\ntwitter.com/caglaravcil\nfacebook.com/caglaravcil\ncaglar.avcil@gmail.com\n\n*Kapak Tasar\u0131m\u0131 & \u00c7izimler: Doruktan TURAN",
+            "group": 1,
+            "id": "d8308e1541d9ff504fedb869cd49a3aad3dbe3c9701e76c6310aa12f",
+            "name": "\u00c7a\u011flar Avc\u0131l",
+            "url": "https://www.youtube.com/user/mcavcil",
+            "view_cnt": "3,493,923"
+        },
+        {
+            "description": "KafeinSiz Sinema ve Dizi YouTube kanal\u0131na Ho\u015fgeldiniz!\nHem vizyon filmleri ve g\u00fcncel diziler ile ilgili, hem de izlemeniz gereken harika filmler ve diziler \u00fczerine i\u00e7erik \u00fcreten bir youtube kanal\u0131d\u0131r. Tad\u0131ndan yenmez bir geek k\u00fclt\u00fcr\u00fc de cabas\u0131! Peki T\u00fcrkiye'nin g\u00fcnde en \u00e7ok haber giren internet sitemizi ziyaret ettiniz mi?\n\nEdit\u00f6ryel \u0130leti\u015fim: iletisim@kafeinsiz.com\nReklam ve Sponsorluk: KafeinSiz@temagency.com",
+            "group": 1,
+            "id": "cbb330a41bceb5eb769a8db590bd8ed7a1463cbd88cf1599c22bc496",
+            "name": "Kafeinsiz",
+            "url": "https://www.youtube.com/channel/UC3jKkmwbXRxOFIy-PYmf54g",
+            "view_cnt": "8,523,030"
+        },
+        {
+            "description": "Hangi k\u0131yafetler moda, hangisi ne zaman giyilir, nas\u0131l bir tarz\u0131n\u0131z olsun, size hangisi uyar,  erkek modas\u0131na dair binlerce konu... Tabii kad\u0131nlardan da bahsedece\u011fiz.  K\u0131sacas\u0131 Adam gibi Adam nas\u0131l olunur hepsini kanal\u0131mda ele alaca\u011f\u0131z. Her zaman \u015f\u0131k, her zaman ilgi oda\u011f\u0131 olacaks\u0131n\u0131z. Hadi iyisiniz!\n\n\nHatemo\u011flu katk\u0131lar\u0131yla haz\u0131rlanm\u0131\u015ft\u0131r.",
+            "group": 1,
+            "id": "507c4ae6eab46bcedee225c14bb9dc3baf2005c07b0bcc54a1f59970",
+            "name": "Adam Gibi Adam",
+            "url": "https://www.youtube.com/channel/UCJsxhcnT25rpvOge6UunasQ",
+            "view_cnt": "333,850"
+        },
+        {
+            "description": "Selam millet, ben \u015eefik ve bu da benim YouTube kanal\u0131m! 35 ya\u015f\u0131n\u0131 devirmi\u015f ve ZX Spectrum'dan itibaren hayat\u0131 boyunca oyun oynam\u0131\u015f biri olarak, art\u0131k oyun ser\u00fcvenlerimi oyuncularla payla\u015fma zaman\u0131 geldi diyerek bu kanal\u0131 a\u00e7t\u0131m. Bu kanalda oyun videolar\u0131, oyun serileri, incelemeler ve daha fazlas\u0131n\u0131 bulabilirsiniz. \u015eunu da akl\u0131n\u0131zda bulundurun: Ekstra bir durum olmad\u0131\u011f\u0131 s\u00fcrece bu kanalda HER G\u00dcN YEN\u0130 B\u0130R V\u0130DEO bulacaks\u0131n\u0131z!\n\nHey everyone, I'm Sefik and this is my YouTube channel! At 35 years of life, after having played games all my life since ZX Spectrum, I decided that it's time for me to share gaming adventures with other players and so I started this channel. You can find gaming videos, walkthroughs, reviews and more on this channel. Keep this in mind: You can find a new video on this channel EVERY DAY!",
+            "group": 1,
+            "id": "46825fd18a21678c316edc3b876db334cec447403baa273129f5f7bb",
+            "name": "Gamer Rocko",
+            "url": "https://www.youtube.com/user/RockoTR",
+            "view_cnt": "9,275,891"
+        },
+        {
+            "description": "Ya\u015fad\u0131klar\u0131m, Okuduklar\u0131m, E\u011flendiklerim, G\u00fcld\u00fcklerim",
+            "group": 1,
+            "id": "a0d3283f140f45cd7cb8cf24957640179916fd66ea492d1d63ed4a9d",
+            "name": "Muhtasar Muhabbet",
+            "url": "https://www.youtube.com/channel/UCjq_yVc1tFtProXv2dNYcfA",
+            "view_cnt": "117,594"
+        },
+        {
+            "description": "Tek Tabanca Gamer, oynan\u0131\u015f, tam \u00e7\u00f6z\u00fcm oyun videolar\u0131ndan konsol ve PC oyun incelemelerine kadar oyuna dair her \u015feyi bulabilece\u011finiz bir kanal. 30 y\u0131l \u00f6nce Commodere 64 ile ba\u015flayan oyun ser\u00fcvenimde, bildiklerim ve d\u00fc\u015f\u00fcnd\u00fcklerimi sizlerle payla\u015fmak beni \u00e7ok mutlu edecektir.",
+            "group": 1,
+            "id": "5a0483bccaa88a78c0cd6eb71f865079e41802d29f3e534a641123e8",
+            "name": "Tek Tabanca Gamer",
+            "url": "https://www.youtube.com/channel/UCP7TUcj2RGbdv-Xwvrjwnmg",
+            "view_cnt": "711,564"
+        },
+        {
+            "description": "Basfi ile deneyler yaparak hep birlikte \u00f6\u011freniyoruz. Her hafta yay\u0131nlad\u0131\u011f\u0131m\u0131z videolar ile herkes i\u00e7in, herkese g\u00f6re basit ve anla\u015f\u0131l\u0131r videolar\u0131m\u0131zla bilimin s\u0131rlar\u0131n\u0131 \u00e7\u00f6z\u00fcyoruz. Bilim hi\u00e7 bu kadar e\u011flenceli olmam\u0131\u015ft\u0131!\n\nBASF T\u00fcrk Kimya taraf\u0131ndan haz\u0131rlanm\u0131\u015ft\u0131r.",
+            "group": 1,
+            "id": "efaf88557c620e99b848c55cd5d262b7741a270335c96402e104a489",
+            "name": "Basfi",
+            "url": "https://www.youtube.com/channel/UCnAlXnZRNikus5wf4BPu4_A",
+            "view_cnt": "768,126"
+        },
+        {
+            "description": "Son \u0130ki Koltuk'u bu linkten takip edebilirsiniz: http://www.sonikikoltuk.com/\n\nSinema salonundaki son iki koltuktan safi geyik soslu film incelemeleri ve daha fazlas\u0131...\n\nAbone Olmay\u0131 Unutmay\u0131n!\n\n\nFacebook: https://www.facebook.com/sonikikoltuk\nTwitter: https://twitter.com/sonikikoltuk\nInstagram: https://www.instagram.com/sonikikoltuk/",
+            "group": 1,
+            "id": "28c63abbc745f9559b50e5e491cc807dc29b3abe9df203e71f94ad8a",
+            "name": "Son \u0130ki Koltuk",
+            "url": "https://www.youtube.com/channel/UCfqb4e5Xj0HTDoB1Z1yKnrg",
+            "view_cnt": "856"
+        },
+        {
+            "description": "Merhabalar, ben Orhun Kayaalp. Sizler beni muhtemelen Multiplayer'da s\u0131k s\u0131k Enis Kirazo\u011flu ile birlikte yer ald\u0131\u011f\u0131m videolardan tan\u0131yorsunuz. \u00d6zetleyeyim, normalde Multiplayer TV program\u0131n\u0131n y\u00f6netmenli\u011fini ve kurgusunu yap\u0131yorum. Galatasaray \u00dcniversitesi \u0130leti\u015fim b\u00f6l\u00fcm\u00fcnden mezunum.\n\n\u015eu anda ki\u015fisel kanal\u0131mdas\u0131n\u0131z ve bu kanalda haftada 3-4 video yay\u0131nl\u0131yorum. Onun d\u0131\u015f\u0131ndaki g\u00fcnlere de bonus videolar y\u00fcklemeye \u00e7al\u0131\u015f\u0131yorum.. Kanal\u0131n ana sayfas\u0131nda Multiplayer'da yer ald\u0131\u011f\u0131m videolar\u0131 da g\u00f6rebilirsiniz.\n\nKanala abone olarak t\u00fcm i\u00e7erikleri takip edebilirsiniz: https://goo.gl/eO0d7l\n\nKi\u015fisel olarak kulland\u0131\u011f\u0131m Twitter hesab\u0131mdan da bana ula\u015fabilir \u00f6zel hayat\u0131ma bir nebze \u015fahit olabilirsiniz: \nhttps://www.twitter.com/OrhunKayaalp \nhttps://www.instagram.com/orhunkayaalp\n\nBilgisayar\u0131m\u0131n genel \u00f6zellikleri:\n\nIntel i5 2500K \u0130\u015flemci\n8 GB Ram\nMSI NVIDIA GTX 1060",
+            "group": 1,
+            "id": "0c6a98eeceb1199876d6b560e1da25eac6198d3eb3ac15d93d7f0aca",
+            "name": "Orhun Kayaalp",
+            "url": "https://www.youtube.com/channel/UCqV9ovPYhKgbYWg5U1hlGxQ",
+            "view_cnt": "923,683"
+        },
+        {
+            "description": "Oyun g\u00fcndemine dair her \u015fey! http://www.konsoloyun.com",
+            "group": 1,
+            "id": "94d87546b10ea65e72d30e0b4439998e730ba6edf3e8f5626ac0941c",
+            "name": "Konsol Oyun",
+            "url": "https://www.youtube.com/channel/UCcZhPGrxQVmg0CL6cZogqoA",
+            "view_cnt": "2,169,608"
+        },
+        {
+            "description": "Fragtist.com'un resmi You Tube kanal\u0131d\u0131r.",
+            "group": 1,
+            "id": "7a982e9de5ca53ed73fd1e58a57056fff2c2e00143fa82ece2eb97c3",
+            "name": "Fragtist",
+            "url": "https://www.youtube.com/user/Fragtist",
+            "view_cnt": "2,148,024"
+        },
+        {
+            "description": "A non-profit project, dedicated to bring the non-mainstream pieces from the Turkish Rock History into light with unique art works.",
+            "group": 1,
+            "id": "d636bca50a2c3520a9e21874b25bddd504e4357ec9890177e83e0a34",
+            "name": "Anatolian Rock Revival Project",
+            "url": "https://www.youtube.com/user/AnatolianRockRevival",
+            "view_cnt": "6,718,522"
+        },
+        {
+            "description": "Herkese Merhaba,\n\nAd\u0131m Do\u011fukan G\u00fcven Nomak. \u0130stanbul'da Aray\u00fcz Geli\u015ftiricisi olarak \u00e7al\u0131\u015fmaktay\u0131m.\n\nYouTube \u00fczerinde Geli\u015ftirici ve Tasar\u0131mc\u0131 arkada\u015flarla birlikte \u00e7e\u015fitli seriler alt\u0131nda video i\u00e7erikler \u00fcreterek bu i\u015fe olan a\u015fk\u0131m\u0131z\u0131 ve motivasyonumuzu artt\u0131rmaya \u00e7al\u0131\u015f\u0131yoruz.\n\nFlexible Grid System, Pixel Perfect CSS ve SVG T\u00fcrkiye Haritas\u0131 ad\u0131nda Open Source olarak geli\u015ftirdi\u011fim projelerim var. Yeniliklerden haberdar olmak istersen beni di\u011fer sosyal medya hesaplar\u0131ndan takip edebilirsin.\n\nG\u00f6r\u00fc\u015fmek \u00fczere, Sayg\u0131 ve Sevgilerimle.",
+            "group": 1,
+            "id": "4fdc96432cf5408ec1f528ae63c463deab561436958f88fcee780790",
+            "name": "Do\u011fukan G\u00fcven Nomak",
+            "url": "https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA",
+            "view_cnt": "776,208"
+        },
+        {
+            "description": "Cep Hikayeleri, \u00e7evremizde fark\u0131na varmadan ge\u00e7ip gitti\u011fimiz insan hikayelerinin pe\u015fine d\u00fc\u015fer\nBir esnaf, bir sanat\u00e7\u0131, bir gen\u00e7 veya bir ya\u015fl\u0131; Cep Hikayeleri'ne g\u00f6re herkesin anlatacak bir hikayesi vard\u0131r.\n\nHikaye \u00f6nerileri ve dijital projeler i\u00e7in:\ninfo@cephikayeleri.com",
+            "group": 1,
+            "id": "b1453e62b399585f5146e83510d051adf1e6fc05c8db68ccc152edb0",
+            "name": "Cep Hikayeleri",
+            "url": "https://www.youtube.com/channel/UCaMkVc_bfovLxz40vrmEtWQ",
+            "view_cnt": "938,011"
+        },
+        {
+            "description": "",
+            "group": 1,
+            "id": "8eec45866b3edc3738ac078f4986bec0406f7a11f974741c862f4498",
+            "name": "tunc top",
+            "url": "https://www.youtube.com/user/sinekkaydi/",
+            "view_cnt": 0
+        },
+        {
+            "description": "Merhaba :)  Amac\u0131m, zevk ald\u0131\u011f\u0131m\u0131z \u015feyleri B\u0130RL\u0130KTE \u00fcretmek, \u00fcretme k\u00fclt\u00fcr\u00fcn\u00fc yerle\u015ftirmek, gen\u00e7 arkada\u015flar\u0131m\u0131z\u0131 hobi sahibi yapmak, bildiklerimizi payla\u015fmak. \n\u0130leti\u015fim: ta2awr@gmail.com\n\n1- L\u00fctfen mesaj ve yorum yazarken, merhaba, l\u00fctfen, te\u015fekk\u00fcr ederim, iyi g\u00fcnler gibi s\u00f6zler kullanmaya \u00e7al\u0131\u015f\u0131n. \n2- Ki\u015fisel yard\u0131mc\u0131n\u0131z olmad\u0131\u011f\u0131m\u0131 unutmay\u0131n l\u00fctfen. \n3- Sordu\u011funuz soruya cevap al\u0131p, almaman\u0131z\u0131 belirleyen \u015fey \u00fcslubunuzdur. Biraz da zaman :) \n4- E\u011fer ele\u015ftiri i\u00e7eren bir mesaj\u0131n\u0131z\u0131 silmi\u015fsem, bunun sebebi ele\u015ftirmeniz de\u011fil \u00fcslubunuzdur. \n5- Sizi rahats\u0131z eden bir \u015fey varsa yorum yazmadan \u00f6nce mesaj g\u00f6nderin. \n6- Youtube link payla\u015f\u0131lmas\u0131na izin vermiyor. Nokta'dan sonra bo\u015fluk b\u0131rakmazsan\u0131z da bunu link kabul ediyor. \n7- Ba\u015fkas\u0131n\u0131n bana sordu\u011fu soruya, cevaptan emin de\u011filseniz, cevap vermeye \u00e7al\u0131\u015fmay\u0131n.\n8- Mesaj k\u0131sm\u0131nda kendi kanal\u0131n\u0131z\u0131n reklam\u0131n\u0131 ve yukar\u0131da yazd\u0131klar\u0131m\u0131 yapmay\u0131n, banlar\u0131m. :)\n9- Atlanamayan reklamlar \u00fczerinde bizim kontrol\u00fcm\u00fcz yok. Reklam eng. kullanabilirsiniz. :)",
+            "group": 1,
+            "id": "7a03ee784b48425d612990f925a9becc88a5966c0c3b5a8d56735236",
+            "name": "Murat \u015een",
+            "url": "https://www.youtube.com/channel/UCLqQ5u1b5Q-LFfcUCYiKd4Q",
+            "view_cnt": "1,613,842"
+        },
+        {
+            "description": "Cenk ile Erdem'in efsanele\u015fmi\u015f program\u0131 M\u00fcebbet Muhabbet art\u0131k YouTube'da! Haftada 3 b\u00f6l\u00fcm\u00fcn yay\u0131nlanaca\u011f\u0131 bu kanala abone olmay\u0131 unutmay\u0131n!",
+            "group": 1,
+            "id": "e99248202a3d6a91dcb56166867fc8fe728497fec64b6b699f8c9737",
+            "name": "M\u00fcebbet Muhabbet",
+            "url": "https://www.youtube.com/channel/UCogJiJqx8I6ZoPaRKsdwgaA",
+            "view_cnt": "541,275"
+        },
+        {
+            "description": "Konsol \u00dcss\u00fc geri d\u00f6nd\u00fc. E\u011fer oyunlar sizin i\u00e7in de bir hobi de\u011fil de ya\u015fam bi\u00e7imiyse siz de bize kat\u0131l\u0131n! \u0130smimiz Konsol \u00dcss\u00fc olabilir ama burada her oyun var. PC, konsol, misket fark etmez ne olursan ol yeter ki oyuncu ol!",
+            "group": 1,
+            "id": "4ed4cec3047149e63e7a5958c8383d08037fec9cd1d123891fa8d9f4",
+            "name": "Konsol \u00dcss\u00fc",
+            "url": "https://www.youtube.com/channel/UCVPfwYzn7JKp6eH2echqbxg",
+            "view_cnt": "1,422,560"
+        },
+        {
+            "description": "8 A\u011fustos 2016'da ba\u015flayan Noldoist TV projesi ile birlikte oyuncular\u0131n merak\u0131n\u0131 gidermek ve bilgilendirmek i\u00e7in bir yola \u00e7\u0131kt\u0131k!\n\nBana ula\u015fmak i\u00e7in: noldoisttv@gmail.com",
+            "group": 1,
+            "id": "de5e185cabc38d55055636c5a3fe0fdad1f6fdd2ba318b714cfdda52",
+            "name": "Noldoist TV",
+            "url": "https://www.youtube.com/channel/UCnwJMGgDEDSC5VFHs2OrScQ",
+            "view_cnt": "67,356"
+        }
+    ]
+}
